@@ -1,0 +1,3 @@
+C:/Users/pdpau/CLionProjects/metodos/cmake-build-debug/CMakeFiles/metodos.dir
+C:/Users/pdpau/CLionProjects/metodos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pdpau/CLionProjects/metodos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

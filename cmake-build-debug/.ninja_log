@@ -1,0 +1,7 @@
+# ninja log v5
+3	113	6744912610124424	CMakeFiles/metodos.dir/lista_enlazada.c.obj	824be331c7d867dc
+3	105	6744916311087555	CMakeFiles/metodos.dir/main.c.obj	20cac2ef37b03d99
+106	221	6744916312062518	metodos.exe	c353145bac741074
+2	103	6744913423545226	CMakeFiles/metodos.dir/labouchere.c.obj	91d9ada7208c022d
+2	73	6744904824275062	CMakeFiles/metodos.dir/fibonacci.c.obj	cad9969352617ed5
+1	168	6744917392901588	build.ninja	3e97c8da519d9f72
