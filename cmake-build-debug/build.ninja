@@ -73,6 +73,12 @@ build CMakeFiles/metodos.dir/labouchere.c.obj: C_COMPILER__metodos_Debug C$:/Use
   OBJECT_DIR = CMakeFiles\metodos.dir
   OBJECT_FILE_DIR = CMakeFiles\metodos.dir
 
+build CMakeFiles/metodos.dir/labouchere2.c.obj: C_COMPILER__metodos_Debug C$:/Users/pdpau/CLionProjects/metodos/labouchere2.c || cmake_object_order_depends_target_metodos
+  DEP_FILE = CMakeFiles\metodos.dir\labouchere2.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\metodos.dir
+  OBJECT_FILE_DIR = CMakeFiles\metodos.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target metodos
@@ -81,7 +87,7 @@ build CMakeFiles/metodos.dir/labouchere.c.obj: C_COMPILER__metodos_Debug C$:/Use
 #############################################
 # Link the executable metodos.exe
 
-build metodos.exe: C_EXECUTABLE_LINKER__metodos_Debug CMakeFiles/metodos.dir/main.c.obj CMakeFiles/metodos.dir/fibonacci.c.obj CMakeFiles/metodos.dir/lista_enlazada.c.obj CMakeFiles/metodos.dir/labouchere.c.obj
+build metodos.exe: C_EXECUTABLE_LINKER__metodos_Debug CMakeFiles/metodos.dir/main.c.obj CMakeFiles/metodos.dir/fibonacci.c.obj CMakeFiles/metodos.dir/lista_enlazada.c.obj CMakeFiles/metodos.dir/labouchere.c.obj CMakeFiles/metodos.dir/labouchere2.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\metodos.dir

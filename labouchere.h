@@ -12,6 +12,8 @@ void create_first_part(List* list, int want_to_win);
 int create_last_part(List* list, int want_to_win);
 int create_play(List* list, int want_to_win);
 
+void create_first(List* list, int want);
+
 void bet_won(List* list);
 void bet_lost(List* list, int bet);
 

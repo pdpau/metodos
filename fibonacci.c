@@ -15,15 +15,3 @@ int fibonacci_r(int num) {
     }
 }
 
-//void create_first(List* list, int want) {
-//    double random;
-//    double total = 0;
-//
-//    while (total <= want) {
-//        random = random_choice(want/2);
-//        if (random != 0) {
-//            add_first(list, random);
-//            total += random;
-//        }
-//    }
-//}
